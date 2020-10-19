@@ -1,0 +1,11 @@
+# aliases for showing/hiding hidden files in Finder
+alias showFiles='defaults write com.apple.finder AppleShowAllFiles YES; killall Finder /System/Library/CoreServices/Finder.app'
+alias hideFiles='defaults write com.apple.finder AppleShowAllFiles NO; killall Finder /System/Library/CoreServices/Finder.app'
+
+# ls aliases
+alias ls='ls -GFht'
+alias lt='ls -lt'
+alias l.='ls -d .*'
+alias ll='ls -l'
+alias la='ls -at'
+alias grep='egrep --color'
