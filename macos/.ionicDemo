@@ -1,0 +1,4 @@
+# This file is used to conveniently set parameters for Ionic demos and testing
+
+export IONIC_PERSISTOR_PASSWORD=thisisatest001	# password for pw persistor
+export AUTH_TOKEN=NWYwZjFhN2FkYzAwZjAxZmY2NGJlMDA0YdKxB9r0aSg4k1MOqQo2OUI4KnhhVKyF8OHAW/eisYI= 	# API key for protect credentials demo on PLhz
