@@ -1,0 +1,7 @@
+[user]
+	name = Diallo Gentry
+	email = github@gee-zone.us
+[color]
+	ui = auto
+[init]
+	defaultBranch = main

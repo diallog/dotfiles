@@ -1,0 +1,9 @@
+# ls aliases
+alias ls='ls -GFht'
+alias lt='ls -lt'
+alias l.='ls -d .*'
+alias ll='ls -l'
+alias la='ls -at'
+
+# other aliases
+alias grep='egrep --color'
