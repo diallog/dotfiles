@@ -11,9 +11,5 @@ export VIRTUALENVWRAPPER_PYTHON=/usr/local/bin/python3
 export VIRTUALENVWRAPPER_VIRTUALENV=/usr/local/bin/virtualenv
 source /usr/local/bin/virtualenvwrapper.sh
 
-# cursor movement on command line
-bindkey "[D" backward-word # ALT + left-arrow
-bindkey "[C" forward-word # ALT + right-arrow
-
 # ALIASES
 source ~/.alias
